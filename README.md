@@ -9,7 +9,7 @@
 ## Installation
 
 ### Swift Package Manager
-You can use The Swift Package Manager to install DevelopKits by adding the proper description to your `Package.swift` 
+You can use The Swift Package Manager to install SafeDictionary by adding the proper description to your `Package.swift` 
 
 ```swift
 import PackageDescription
