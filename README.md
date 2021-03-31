@@ -1,3 +1,11 @@
+[![Build Status](https://github.com/quangnghiadev/SafeDictionary/workflows/CI/badge.svg?branch=main)](https://github.com/quangnghiadev/SafeDictionary/actions)
+[![SPM compatible](https://img.shields.io/badge/SPM-Compatible-brightgreen.svg?style=flat)](https://swift.org/package-manager/)
+[![Swift](https://img.shields.io/badge/Swift-5.3-orange.svg)](https://swift.org)
+[![Xcode](https://img.shields.io/badge/Xcode-12.2-blue.svg)](https://developer.apple.com/xcode)
+[![MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
+# SafeDictionary
+
 **SafeDictionary** for safe access dictionary value when working with multi thread
 
 ## Installation
