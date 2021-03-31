@@ -3,19 +3,7 @@
 ## Installation
 
 ### Swift Package Manager
-You can use The Swift Package Manager to install SafeDictionary by adding the proper description to your `Package.swift` 
-
-```swift
-import PackageDescription
-
-let package = Package(
-    name: "YOUR_PROJECT_NAME",
-    targets: [],
-    dependencies: [
-        .package(url: "https://github.com/nghiadev95/SafeDictionary.git", from: "1.0.0")
-    ]
-)
-```
+You can use The Swift Package Manager to install AsyncOperation by adding `https://github.com/quangnghiadev/SafeDictionary.git` to Swift Package of your XCode project
 
 
 ## Usage
